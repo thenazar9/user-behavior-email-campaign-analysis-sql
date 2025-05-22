@@ -52,4 +52,4 @@ The final dataset includes the following fields:
 
 Below is the graphical representation of the analyzed data, showing key trends and metrics from the user behavior and email campaign performance analysis.
 
-![Visualization Screenshot](Looker_Studio_Reporting_SQL_Portfolio_page.jpg)
+![Visualization Screenshot](looker_studio_reporting_sql_portfolio_page.jpg)
