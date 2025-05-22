@@ -48,3 +48,8 @@ The final dataset includes the following fields:
   - **Country rankings by total account creation and total emails sent.**
   - **Account information by country, including subscription and verification status.**
 
+## 📈 Visualization of Results
+
+Below is the graphical representation of the analyzed data, showing key trends and metrics from the user behavior and email campaign performance analysis.
+
+
